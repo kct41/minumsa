@@ -1,13 +1,18 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+*{padding:0;margin:0;box-sizing:border-box;list-style:none;}
+a{text-decoration:inherit;color:inherit;}
+button{border:none;background:none;}
+@font-face {
+    font-family: "NanumGothic";
+    font-style: normal;
+    font-weight: 100;
+    src: url("./font/NanumGothic.woff") format("woff");
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@font-face {
+    font-family: "NanumGothicBold";
+    font-style: normal;
+    font-weight: 100;
+    src: url("./font/NanumGothicBold.woff") format("woff");
 }
+body{font-family: 'NanumGothic', sans-serif;color:#444;letter-spacing:-1px;}
+.bold{font-family: 'NanumGothicBold', sans-serif;}
+.logo{font-family: 'Michroma', sans-serif;}
