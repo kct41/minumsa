@@ -11,8 +11,8 @@ function App() {
             <BrowserRouter>
                 <Nav/>
                 <Routes>
-                    <Route path="/" element={<Home />}></Route>
-                    <Route path="/login" element={<Login />}></Route>
+                    <Route path="/minumsa" element={<Home />}></Route>
+                    <Route path="/minumsa/login" element={<Login />}></Route>
                 </Routes>
                 <Footer/>
             </BrowserRouter>
