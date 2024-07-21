@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/minumsa/static/css/main.0cfee155.css",
+    "main.js": "/minumsa/static/js/main.53cf6622.js",
+    "static/media/NanumGothicBold.woff": "/minumsa/static/media/NanumGothicBold.fd745481ca4614db7434.woff",
+    "static/media/NanumGothic.woff": "/minumsa/static/media/NanumGothic.3bacac52f91dd2fa76b7.woff",
+    "static/media/940x940_논픽션여름학교_01.png": "/minumsa/static/media/940x940_논픽션여름학교_01.33cfc696f52f2816cbc9.png",
+    "static/media/금빛종소리_입체띠지_(1).jpg": "/minumsa/static/media/금빛종소리_입체띠지_(1).8084d41ba4ac9e1bbff0.jpg",
+    "static/media/일력사진.jpg": "/minumsa/static/media/일력사진.224ca02e2c10c79f6491.jpg",
+    "static/media/book6.jpg": "/minumsa/static/media/book6.08cbccfb8913194b7ea5.jpg",
+    "static/media/book1.jpg": "/minumsa/static/media/book1.398aec69be880a6c9645.jpg",
+    "static/media/network.png": "/minumsa/static/media/network.3124bafdfd8539d8c23f.png",
+    "static/media/book3.jpg": "/minumsa/static/media/book3.58487976176329ada330.jpg",
+    "static/media/book5.jpg": "/minumsa/static/media/book5.32c7b290dd4be3cffb79.jpg",
+    "static/media/book4.jpg": "/minumsa/static/media/book4.d29e3f0cec7ce28847a5.jpg",
+    "static/media/book2.jpg": "/minumsa/static/media/book2.6c673e7e2931cdc30019.jpg",
+    "static/media/shopping-basket.png": "/minumsa/static/media/shopping-basket.a26227242ef74f9504de.png",
+    "static/media/book.png": "/minumsa/static/media/book.8c8483241d4375665302.png",
+    "static/media/bookstore.png": "/minumsa/static/media/bookstore.3f8b07c4baf2bab275a0.png",
+    "static/media/youtube.png": "/minumsa/static/media/youtube.0189cbc04e743d4e53a8.png",
+    "index.html": "/minumsa/index.html",
+    "main.0cfee155.css.map": "/minumsa/static/css/main.0cfee155.css.map",
+    "main.53cf6622.js.map": "/minumsa/static/js/main.53cf6622.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cfee155.css",
+    "static/js/main.53cf6622.js"
+  ]
+}
