@@ -67,7 +67,7 @@ function Nav() {
                     </li>
                 </ul>
                 <div className="nav_btn_wrap">
-                    <Link to="/login"><i className="fa-regular fa-user"></i></Link>
+                    <Link to="/minumsa/login"><i className="fa-regular fa-user"></i></Link>
                 </div>
             </nav>
         </>
