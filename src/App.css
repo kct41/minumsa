@@ -69,11 +69,20 @@ nav > .nav_btn_wrap > .search_btn{margin-right:15px;}
 
 footer{width:100%;height:200px;background-color:#444;}
 
+/*  LOGIN  */
+.container.login{height:calc(100vh - 200px);display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%;}
+.container.login > .login_box{display:flex;flex-direction:column;padding:40px 60px;border:1px solid #ececec;border-radius:20px;width:400px;text-align:center;}
+.container.login > .login_box > h2{margin-bottom:30px;color:#988CE5;}
+.container.login > .login_box > input{border-radius:5px;padding:10px;margin-bottom:10px;border:1px solid #ececec;}
+.container.login > .login_box > button{border-radius:5px;background-color:#988CE5;padding:10px;color:#fff;margin:10px 0;}
+.container.login > .login_box > .btn_box{font-size:.8rem;display:flex;justify-content: center;align-items:center;margin-top:10px;}
+.container.login > .login_box > .btn_box > .line{display:block;height:9px;width:1px;background-color:#ececec;margin:0 5px;}
+
 
 @media(max-width:1334px){
     nav .menu{width:750px;}
     nav > .menu > li{position:relative;width:150px;}
-    nav > .menu > li:hover::after{width:150px;}
+    nav > .menu > li:hover::after{width:150px !important;}
     nav > .menu > li > .depth2{width:150px;}
     .container{padding:0 20px;}
 }
@@ -88,9 +97,15 @@ footer{width:100%;height:200px;background-color:#444;}
     nav > .menu{display:none;}
     .container > .card{height:150px;}
     .container > .card > .card_wrap > img{width:50px;height:50px;}
+    .page > .container > div > img{width:250px;}
+    .swiper{width:100%;height:500px;}
 }
 
 
 @media(max-width:720px){
-    .container{padding:0 16px;}
+    body{font-size:14px;}
+    .container.login > .login_box{width:350px;}
+    .container.blog > .post_wrap{flex-direction:column;}
+    .container.blog > .post_wrap > .post{width:100%;margin-bottom:10px;}
+    .swiper{width:100%;height:500px;}
 }
