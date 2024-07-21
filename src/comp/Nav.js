@@ -5,7 +5,7 @@ function Nav() {
         <>
             <nav>
                 <button className="m_hamburger_btn"><i className="fa-solid fa-bars"></i></button>
-                <Link to="/"><h1 className="logo">MINUMSA</h1></Link>
+                <Link to="/minumsa"><h1 className="logo">MINUMSA</h1></Link>
                 <ul className="menu">
                     <div className="menu_bg"></div>
                     <li className="under">도서
