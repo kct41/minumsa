@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/minumsa/static/css/main.e31e40e1.css",
-    "main.js": "/minumsa/static/js/main.a0537c2e.js",
+    "main.css": "/minumsa/static/css/main.d82a1125.css",
+    "main.js": "/minumsa/static/js/main.9e1dfdbe.js",
     "static/media/NanumGothicBold.woff": "/minumsa/static/media/NanumGothicBold.fd745481ca4614db7434.woff",
     "static/media/NanumGothic.woff": "/minumsa/static/media/NanumGothic.3bacac52f91dd2fa76b7.woff",
     "static/media/940x940_논픽션여름학교_01.png": "/minumsa/static/media/940x940_논픽션여름학교_01.33cfc696f52f2816cbc9.png",
@@ -19,11 +19,11 @@
     "static/media/bookstore.png": "/minumsa/static/media/bookstore.3f8b07c4baf2bab275a0.png",
     "static/media/youtube.png": "/minumsa/static/media/youtube.0189cbc04e743d4e53a8.png",
     "index.html": "/minumsa/index.html",
-    "main.e31e40e1.css.map": "/minumsa/static/css/main.e31e40e1.css.map",
-    "main.a0537c2e.js.map": "/minumsa/static/js/main.a0537c2e.js.map"
+    "main.d82a1125.css.map": "/minumsa/static/css/main.d82a1125.css.map",
+    "main.9e1dfdbe.js.map": "/minumsa/static/js/main.9e1dfdbe.js.map"
   },
   "entrypoints": [
-    "static/css/main.e31e40e1.css",
-    "static/js/main.a0537c2e.js"
+    "static/css/main.d82a1125.css",
+    "static/js/main.9e1dfdbe.js"
   ]
 }
