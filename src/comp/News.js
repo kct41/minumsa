@@ -14,22 +14,22 @@ function News(){
                     <div>
                         <span className="header event">EVENT</span>
                         <div>
-                            <a href=""><p>[논픽션 여름 학교] ‘스피노자의 형이상학’ 특강 (무료 초대)</p></a>
+                            <p>[논픽션 여름 학교] ‘스피노자의 형이상학’ 특강 (무료 초대)</p>
                             <p>2024.7.10~7.30</p>
                         </div>
                     </div>
                     <div>
                         <span className="header news">NEWS</span>
                         <div>
-                            <a href=""><p>제 9회 [세계의 문학 신인상] 소설 부문 수상소감 - 김세희</p></a>
-                            <p>2024.7.10~7.30</p>
+                            <p>제 9회 [세계의 문학 신인상] 소설 부문 수상소감 - 김세희</p>
+                            <p>2024.7.10</p>
                         </div>
                     </div>
                     <div>
                         <span className="header news">NEWS</span>
                         <div>
-                            <a href=""><p>제 9회 [세계의 문학 신인상] 소설 부문 수상소감 - 김세희</p></a>
-                            <p>2024.7.10~7.30</p>
+                            <p>제 9회 [세계의 문학 신인상] 소설 부문 수상소감 - 임정민</p>
+                            <p>2024.7.10</p>
                         </div>
                     </div>
                 </div>
