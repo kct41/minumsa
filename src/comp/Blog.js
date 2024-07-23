@@ -7,7 +7,7 @@ function Blog(){
         <div className="container blog">
             <div className="title_wrap">
                 <h2>블로그</h2>
-                <span>더보기</span>
+                <span><i className="fa-solid fa-plus"></i>더보기</span>
             </div>
             <div className="post_wrap">
                 <div className="post">
@@ -15,7 +15,7 @@ function Blog(){
                         <img src={img3} alt=""/>
                     </div>
                     <div className="text_box">
-                        <h4>고전은 영원한 여름방학! ― 『금빛 종소리』 편집 후기</h4>
+                        <h4>고전은 영원한 여름방학!<br/>― 『금빛 종소리』 편집 후기</h4>
                         <p>2024.07.19</p>
                     </div>
                 </div>
@@ -24,7 +24,7 @@ function Blog(){
                         <img src={img1} alt=""/>
                     </div>
                     <div className="text_box">
-                        <h4>[하루에 한 문장] 2024. 7. 18 ─ 『서경』</h4>
+                        <h4>[하루에 한 문장]<br/>2024. 7. 18 ─ 『서경』</h4>
                         <p>2024.07.18</p>
                     </div>
                 </div>
@@ -33,7 +33,7 @@ function Blog(){
                         <img src={img2} alt=""/>
                     </div>
                     <div className="text_box">
-                        <h4>[논픽션 여름 학교] 여름 논픽션 독서모임 (『인간은 의례를 갈망한다』, 『나르시시즘의 고통』)</h4>
+                        <h4>[논픽션 여름 학교]<br/>여름 논픽션 독서모임</h4>
                         <p>2024.07.16</p>
                     </div>
                 </div>
