@@ -7,7 +7,7 @@ function Blog(){
         <div className="container blog">
             <div className="title_wrap">
                 <h2>블로그</h2>
-                <span><i className="fa-solid fa-plus"></i>더보기</span>
+                <span>더보기</span>
             </div>
             <div className="post_wrap">
                 <div className="post">
